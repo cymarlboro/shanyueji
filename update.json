@@ -1,7 +1,16 @@
 {
-  "versionCode": 3,
-  "versionName": "0.3.2",
-  "apkUrl": "https://github.com/cymarlboro/shanyueji/releases/download/v0.3.2/shanyueji-0.3.2-3.apk",
-  "sha256": "5c7a1064749d3f2ae448af21652fbea3e125f2c21b299622f5068487f8c15c85",
-  "notes": "首个公开测试版；内置208题，支持熟记/遗忘、答案编辑与本地备份。云端账号和上传尚未接通。"
+  "versionCode": 4,
+  "versionName": "0.4.0",
+  "apkUrl": "https://github.com/cymarlboro/shanyueji/releases/download/v0.4.0/shanyueji-0.4.0-4.apk",
+  "sha256": "6d4de7332ac5e42da437c81c03e5d2342d567065f75ad41cb5e8b2647562be1d",
+  "notes": "修复安卓每日提醒调度和兼容 AI API 的 HTTP400；新增 Windows 桌面版、账号登录及主动开启的同账号学习记录同步；支持新版提示和覆盖更新。",
+  "windows": {
+    "appId": "cn.shanchuanji.study.desktop",
+    "versionCode": 4,
+    "versionName": "0.4.0",
+    "installerUrl": "https://github.com/cymarlboro/shanyueji/releases/download/v0.4.0/shanyueji-0.4.0-windows-x64-setup.exe",
+    "sha256": "ef1ae8b028278b95b40540170faf0c8ffd23d60d9378727f571f45a367ae97bf",
+    "notes": "修复安卓每日提醒调度和兼容 AI API 的 HTTP400；新增 Windows 桌面版、账号登录及主动开启的同账号学习记录同步；支持新版提示和覆盖更新。"
+  },
+  "windowsSignature": "JaENFr3jb/rV2mn1rEHDT2hB5Qqg2Dw2oJrxxJh0Ioe4m1sPyPyexIpx+Po74HU4xUIMSXn3E7eZ7BjRcG9MCw=="
 }
