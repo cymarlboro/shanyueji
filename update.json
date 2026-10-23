@@ -1,16 +1,16 @@
 {
-  "versionCode": 4,
-  "versionName": "0.4.0",
-  "apkUrl": "https://github.com/cymarlboro/shanyueji/releases/download/v0.4.0/shanyueji-0.4.0-4.apk",
-  "sha256": "6d4de7332ac5e42da437c81c03e5d2342d567065f75ad41cb5e8b2647562be1d",
-  "notes": "修复安卓每日提醒调度和兼容 AI API 的 HTTP400；新增 Windows 桌面版、账号登录及主动开启的同账号学习记录同步；支持新版提示和覆盖更新。",
+  "versionCode": 6,
+  "versionName": "1.0",
+  "apkUrl": "https://github.com/cymarlboro/shanyueji/releases/download/v1.0/shanyueji-1.0-6.apk",
+  "sha256": "d60275296661e27c233532fcb4906e22699da649f190945ebdb42421168b3bd4",
+  "notes": "山月记1.0正式版：改进邮箱登录与验证码确认、DeepSeek资料解析、选择题完整性校验及安全存储。支持同账号主动同步与覆盖升级。",
   "windows": {
     "appId": "cn.shanchuanji.study.desktop",
-    "versionCode": 4,
-    "versionName": "0.4.0",
-    "installerUrl": "https://github.com/cymarlboro/shanyueji/releases/download/v0.4.0/shanyueji-0.4.0-windows-x64-setup.exe",
-    "sha256": "ef1ae8b028278b95b40540170faf0c8ffd23d60d9378727f571f45a367ae97bf",
-    "notes": "修复安卓每日提醒调度和兼容 AI API 的 HTTP400；新增 Windows 桌面版、账号登录及主动开启的同账号学习记录同步；支持新版提示和覆盖更新。"
+    "versionCode": 6,
+    "versionName": "1.0",
+    "installerUrl": "https://github.com/cymarlboro/shanyueji/releases/download/v1.0/shanyueji-1.0.0-windows-x64-setup.exe",
+    "sha256": "8763abf1218f20cfa4cbace751392122aa725746ab8dbf556694748260b4c927",
+    "notes": "山月记1.0正式版：改进邮箱登录与验证码确认、DeepSeek资料解析、选择题完整性校验及安全存储。支持同账号主动同步与覆盖升级。"
   },
-  "windowsSignature": "JaENFr3jb/rV2mn1rEHDT2hB5Qqg2Dw2oJrxxJh0Ioe4m1sPyPyexIpx+Po74HU4xUIMSXn3E7eZ7BjRcG9MCw=="
+  "windowsSignature": "i4P+XpPyBHHs3nz7BeOt03L7qDLwtX44dMLaK661WbvirhU8s+XJDYkVOfIy8aIiF9D/Rdo33wLUZ7h39Q/FBA=="
 }

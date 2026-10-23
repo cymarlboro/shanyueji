@@ -1,13 +1,13 @@
 # 山月记
 
-自然地理学背诵与间隔复习软件，提供 Android 和 Windows x64 版本。当前待发布版本为 **0.4.0**。
+自然地理学背诵与间隔复习软件，提供 Android 和 Windows x64 版本。当前正式版本为 **1.0**。
 
 ## 下载与更新
 
-- [Android 安装包](https://github.com/cymarlboro/shanyueji/releases/download/v0.4.0/shanyueji-0.4.0-4.apk)
-- [Windows x64 安装包](https://github.com/cymarlboro/shanyueji/releases/download/v0.4.0/shanyueji-0.4.0-windows-x64-setup.exe)
-- [版本说明与全部附件](https://github.com/cymarlboro/shanyueji/releases/tag/v0.4.0)
-- [对应版本源码](https://github.com/cymarlboro/shanyueji/releases/download/v0.4.0/shanyueji-0.4.0-source.zip)
+- [Android 安装包](https://github.com/cymarlboro/shanyueji/releases/download/v1.0/shanyueji-1.0-6.apk)
+- [Windows x64 安装包](https://github.com/cymarlboro/shanyueji/releases/download/v1.0/shanyueji-1.0.0-windows-x64-setup.exe)
+- [版本说明与全部附件](https://github.com/cymarlboro/shanyueji/releases/tag/v1.0)
+- [对应版本源码](https://github.com/cymarlboro/shanyueji/releases/download/v1.0/shanyueji-1.0-source.zip)
 - [SHA256 校验清单](SHA256SUMS.txt)
 
 安卓适配 Android 8.0 及以上。新版通过本仓库 Releases 发布，应用会检查官方更新清单并提示更新；安卓安装仍需系统确认。请直接覆盖安装，勿先卸载，以保留学习记录和配置。Windows 安装器暂未申请 Authenticode 证书。
@@ -36,6 +36,7 @@ Android 与 Windows 可登录同一个云端账号。用户主动开启同步后
 
 https://raw.githubusercontent.com/cymarlboro/shanyueji/main/update.json
 
-0.4.0 已通过本地两端回归、模拟器跨端资料测试、桌面正式打包内容启动/重启测试，以及真实 Supabase 事务内的账号隔离与 CAS 验证。尚未使用真实用户账号完成两台设备的联机同步验收。
+1.0 基于用户已实测电脑端邮件登录和 AI 资料解析成功的代码线发布。桌面 98 项回归通过，正式包内容已完成独立测试档案的启动、加密存储与重启保留验证。两台真实设备同账号联机同步、各安卓厂商后台提醒仍需用户实测。
 
 基础资料原有版权归各权利人；本仓库不授予第三方教材、题目和图像的开源许可。
+
