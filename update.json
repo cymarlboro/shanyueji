@@ -1,16 +1,16 @@
 {
-  "versionCode": 6,
-  "versionName": "1.0",
-  "apkUrl": "https://github.com/cymarlboro/shanyueji/releases/download/v1.0/shanyueji-1.0-6.apk",
-  "sha256": "d60275296661e27c233532fcb4906e22699da649f190945ebdb42421168b3bd4",
-  "notes": "山月记1.0正式版：改进邮箱登录与验证码确认、DeepSeek资料解析、选择题完整性校验及安全存储。支持同账号主动同步与覆盖升级。",
+  "versionCode": 7,
+  "versionName": "1.0.1",
+  "apkUrl": "https://github.com/cymarlboro/shanyueji/releases/download/v1.0.1/shanyueji-1.0.1-7.apk",
+  "sha256": "abbe703994a452f7dd77c7ab4a0fd876a15e6138683db72182eefc9aa6707dac",
+  "notes": "新增第五章42道题（17填空、10单选、5多选、10判断）及参考答案解析，基础题库增至250题。保留原题编号与个人记录，安卓和Windows同步更新。",
   "windows": {
     "appId": "cn.shanchuanji.study.desktop",
-    "versionCode": 6,
-    "versionName": "1.0",
-    "installerUrl": "https://github.com/cymarlboro/shanyueji/releases/download/v1.0/shanyueji-1.0.0-windows-x64-setup.exe",
-    "sha256": "8763abf1218f20cfa4cbace751392122aa725746ab8dbf556694748260b4c927",
-    "notes": "山月记1.0正式版：改进邮箱登录与验证码确认、DeepSeek资料解析、选择题完整性校验及安全存储。支持同账号主动同步与覆盖升级。"
+    "versionCode": 7,
+    "versionName": "1.0.1",
+    "installerUrl": "https://github.com/cymarlboro/shanyueji/releases/download/v1.0.1/shanyueji-1.0.1-windows-x64-setup.exe",
+    "sha256": "9b8b19b27b07dbe5cafeff431a822b86c6e576261d769e3360f96c1c4a5b2aa9",
+    "notes": "新增第五章42道题（17填空、10单选、5多选、10判断）及参考答案解析，基础题库增至250题。保留原题编号与个人记录，安卓和Windows同步更新。"
   },
-  "windowsSignature": "i4P+XpPyBHHs3nz7BeOt03L7qDLwtX44dMLaK661WbvirhU8s+XJDYkVOfIy8aIiF9D/Rdo33wLUZ7h39Q/FBA=="
+  "windowsSignature": "qwIcG5lVNHBNXJF3ZpcpJXFu5PjbtS0Ueqnu1p5IinvaNa1sT5n9XjFVJPPplQ95+v9oDmZS2RbAjD/eSgx5BA=="
 }

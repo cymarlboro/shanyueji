@@ -1,20 +1,20 @@
 # 山月记
 
-自然地理学背诵与间隔复习软件，提供 Android 和 Windows x64 版本。当前正式版本为 **1.0**。
+自然地理学背诵与间隔复习软件，提供 Android 和 Windows x64 版本。当前正式版本为 **1.0.1**。
 
 ## 下载与更新
 
-- [Android 安装包](https://github.com/cymarlboro/shanyueji/releases/download/v1.0/shanyueji-1.0-6.apk)
-- [Windows x64 安装包](https://github.com/cymarlboro/shanyueji/releases/download/v1.0/shanyueji-1.0.0-windows-x64-setup.exe)
-- [版本说明与全部附件](https://github.com/cymarlboro/shanyueji/releases/tag/v1.0)
-- [对应版本源码](https://github.com/cymarlboro/shanyueji/releases/download/v1.0/shanyueji-1.0-source.zip)
+- [Android 安装包](https://github.com/cymarlboro/shanyueji/releases/download/v1.0.1/shanyueji-1.0.1-7.apk)
+- [Windows x64 安装包](https://github.com/cymarlboro/shanyueji/releases/download/v1.0.1/shanyueji-1.0.1-windows-x64-setup.exe)
+- [版本说明与全部附件](https://github.com/cymarlboro/shanyueji/releases/tag/v1.0.1)
+- [对应版本源码](https://github.com/cymarlboro/shanyueji/releases/download/v1.0.1/shanyueji-1.0.1-source.zip)
 - [SHA256 校验清单](SHA256SUMS.txt)
 
 安卓适配 Android 8.0 及以上。新版通过本仓库 Releases 发布，应用会检查官方更新清单并提示更新；安卓安装仍需系统确认。请直接覆盖安装，勿先卸载，以保留学习记录和配置。Windows 安装器暂未申请 Authenticode 证书。
 
 ## 学习与跨设备同步
 
-内置 208 道题，覆盖 8 类题型。支持章节、题干和题型筛选、显示答案、编辑保存、熟记/遗忘、自评后的间隔复习，以及本地资料导入、兼容 AI API 解析、问答草稿确认和本地备份。
+内置 250 道题，覆盖 8 类题型。支持章节、题干和题型筛选、显示答案、编辑保存、熟记/遗忘、自评后的间隔复习，以及本地资料导入、兼容 AI API 解析、问答草稿确认和本地备份。
 
 Android 与 Windows 可登录同一个云端账号。用户主动开启同步后，共享学习历史、答案修订、复习进度和已解析导入资料。登录本身不会自动上传；仍可离线学习。切换账号前请导出备份，并按应用中的绑定提示处理。
 
@@ -24,7 +24,7 @@ Android 与 Windows 可登录同一个云端账号。用户主动开启同步后
 
 ## 基础题库
 
-- [基础题库 JSON](base-question-bank.json)：208 题、8 类题型、188 条生成答案草稿及出处。
+- [基础题库 JSON](base-question-bank.json)：250 题、8 类题型、188 条生成答案草稿及出处。
 - [读图题配图 JSON](base-question-images.json)：23 道读图题，共 26 张图片。
 - [题库格式与复核说明](QUESTION_BANK.md)。
 
@@ -40,3 +40,5 @@ https://raw.githubusercontent.com/cymarlboro/shanyueji/main/update.json
 
 基础资料原有版权归各权利人；本仓库不授予第三方教材、题目和图像的开源许可。
 
+
+1.0.1 新增第五章42道题及参考答案解析（17填空、10单选、5多选、10判断），可按“第5章”或新增来源筛选。题号209—250，保留原208题及个人记录。
