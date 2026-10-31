@@ -1,16 +1,16 @@
 {
-  "versionCode": 7,
-  "versionName": "1.0.1",
-  "apkUrl": "https://github.com/cymarlboro/shanyueji/releases/download/v1.0.1/shanyueji-1.0.1-7.apk",
-  "sha256": "abbe703994a452f7dd77c7ab4a0fd876a15e6138683db72182eefc9aa6707dac",
-  "notes": "新增第五章42道题（17填空、10单选、5多选、10判断）及参考答案解析，基础题库增至250题。保留原题编号与个人记录，安卓和Windows同步更新。",
+  "versionCode": 8,
+  "versionName": "1.1.0",
+  "apkUrl": "https://github.com/cymarlboro/shanyueji/releases/download/v1.1.0/shanyueji-1.1.0-8.apk",
+  "sha256": "69e9e904cb267ab9171d07d0ce3ec5474fdbcc2466ea38eb27e9fd23b5bbf1be",
+  "notes": "新增全书14章60道机制与辨析等题目，总题库310题；44道简答类、10填空、4选择、2判断。每题保留教材页码与知识路径。熟记首次3天后复习，跨日熟记间隔递增，同日重复不增加次数；未到期题不自动补入计划。原250题、应用标识、签名和用户数据目录保留。请覆盖安装，勿先卸载。全书首批补题不等于每个末级知识点已出题覆盖。",
   "windows": {
     "appId": "cn.shanchuanji.study.desktop",
-    "versionCode": 7,
-    "versionName": "1.0.1",
-    "installerUrl": "https://github.com/cymarlboro/shanyueji/releases/download/v1.0.1/shanyueji-1.0.1-windows-x64-setup.exe",
-    "sha256": "9b8b19b27b07dbe5cafeff431a822b86c6e576261d769e3360f96c1c4a5b2aa9",
-    "notes": "新增第五章42道题（17填空、10单选、5多选、10判断）及参考答案解析，基础题库增至250题。保留原题编号与个人记录，安卓和Windows同步更新。"
+    "versionCode": 8,
+    "versionName": "1.1.0",
+    "installerUrl": "https://github.com/cymarlboro/shanyueji/releases/download/v1.1.0/shanyueji-1.1.0-windows-x64-setup.exe",
+    "sha256": "218d738eda07e3fd96a409bb4b62951ce49e87d654254de45524776cc6de386b",
+    "notes": "新增全书14章60道机制与辨析等题目，总题库310题；44道简答类、10填空、4选择、2判断。每题保留教材页码与知识路径。熟记首次3天后复习，跨日熟记间隔递增，同日重复不增加次数；未到期题不自动补入计划。原250题、应用标识、签名和用户数据目录保留。请覆盖安装，勿先卸载。全书首批补题不等于每个末级知识点已出题覆盖。"
   },
-  "windowsSignature": "qwIcG5lVNHBNXJF3ZpcpJXFu5PjbtS0Ueqnu1p5IinvaNa1sT5n9XjFVJPPplQ95+v9oDmZS2RbAjD/eSgx5BA=="
+  "windowsSignature": "k14r0rjpQrEFvLzHWA2q/Y4++V6p76/gMjGRCU27lE+x2Aw5lpqTnwPcjgZGTytxa5yjKwg/VoXTovpMw6u4CQ=="
 }

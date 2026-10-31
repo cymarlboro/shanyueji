@@ -1,5 +1,5 @@
-abbe703994a452f7dd77c7ab4a0fd876a15e6138683db72182eefc9aa6707dac  shanyueji-1.0.1-7.apk
-9b8b19b27b07dbe5cafeff431a822b86c6e576261d769e3360f96c1c4a5b2aa9  shanyueji-1.0.1-windows-x64-setup.exe
-19bf62ce0fdedf58d461f7eab0d2a9fda32a7502ea48e50c49e6a971c66a7704  shanyueji-1.0.1-source.zip
-ca3969d356965943eff6cdd5c73a802a5a2f80ae5c76ba608f59fb0ebdf7a9d6  base-question-bank.json
+69e9e904cb267ab9171d07d0ce3ec5474fdbcc2466ea38eb27e9fd23b5bbf1be  shanyueji-1.1.0-8.apk
+218d738eda07e3fd96a409bb4b62951ce49e87d654254de45524776cc6de386b  shanyueji-1.1.0-windows-x64-setup.exe
+f36cdc3065f7758f69b5ec23236be4aa333bbec8ef80f7902980b657f19ea16c  shanyueji-1.1.0-source.zip
+3b42e89b17118dd947a3a87cf7734bbc2b724e04fdce37e19fcfaf03eb7e5dd5  base-question-bank.json
 d030097de11b65680955c12c62071d7e80a6ccb047a73afabb91a4fa60f73e81  base-question-images.json
